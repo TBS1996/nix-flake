@@ -8,8 +8,6 @@
 
   # Packages that should be installed to the user profile.
   home.packages = [                               
-    pkgs.htop
-    pkgs.fortune
   ];
 
   # This value determines the Home Manager release that your
