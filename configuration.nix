@@ -88,6 +88,7 @@
 	librewolf
 
 	# cli
+	jq
 	gurk-rs
 	neomutt
 	tree
