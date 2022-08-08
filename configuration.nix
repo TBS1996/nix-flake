@@ -88,6 +88,9 @@
 	librewolf
 
 	# cli
+	gurk-rs
+	neomutt
+	tree
 	kitty
 	ytfzf
 	go
@@ -115,6 +118,7 @@
 	dmenu
 	git
 	tmux
+	tmuxinator
 	neovim
 	htop
 
